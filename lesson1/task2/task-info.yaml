@@ -1,0 +1,24 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+  encrypted_text: QOsj/rZpcf48DfWkzNng9g==
+  learner_created: false
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 107
+    length: 35
+    placeholder_text: /* TODO print "Hello" via console*/
+    initial_state:
+      length: 35
+      offset: 107
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFAQkozZQC6Elj7MfAOkrV5c=
+  encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw0mlryygjJjOrnPI8Q6PaQXh7Yhy8AJr+vs4qXB4f1L1FrgqDZqQR1va8u3gLuV6ayXSV1C8Gn/mBnRVmXDMWFYRuN2Imgp4gUgH+m/pKgLfbM6FaZ9D3clPbJV1cLJP8w==
+  learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
