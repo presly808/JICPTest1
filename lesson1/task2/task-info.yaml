@@ -8,17 +8,20 @@ files:
   visible: true
   placeholders:
   - offset: 107
-    length: 35
+    length: 26
     placeholder_text: /* TODO print "Hello" via console*/
     initial_state:
       length: 35
       offset: 107
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFAQkozZQC6Elj7MfAOkrV5c=
   encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw0mlryygjJjOrnPI8Q6PaQXh7Yhy8AJr+vs4qXB4f1L1FrgqDZqQR1va8u3gLuV6ayXSV1C8Gn/mBnRVmXDMWFYRuN2Imgp4gUgH+m/pKgLfbM6FaZ9D3clPbJV1cLJP8w==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 11 Apr 2022 20:01:01 UTC
 record: -1
 solution_hidden: true
